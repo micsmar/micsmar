@@ -3,10 +3,13 @@
 My name is Michael Martinez and I'm a second-year student at the University of Michigan pursuing a degree in Computer Science 🎓. I am currently living in Ann Arbor, Michigan 🏠, but I am from the New York City Metropolitan Area 🏙.
 
 ## My Programming and Technical Knowledge
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macos&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=007ACC)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micsmar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
