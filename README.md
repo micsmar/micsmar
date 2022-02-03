@@ -1,9 +1,10 @@
-- Hi there, I’m Michael Martinez! 👋
+# Hi Everyone! 👋
+
+My name is Michael Martinez and I'm a second-year student at the University of Michigan pursuing a degree in Computer Science 🎓. I am currently living in Ann Arbor, Michigan 🏠, but I am from the New York City Metropolitan Area 🏙.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micsmar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-- 🎓 I am currently a sophomore at the University of Michigan pursuing a degree in Computer Science.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
