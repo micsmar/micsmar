@@ -15,7 +15,7 @@ My name is Michael Martinez and I'm a second-year student at the University of M
 ## GitHub Stats
 
 <a href="https://github.com/micsmar/micsmar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micsmar&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micsmar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 
