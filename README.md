@@ -1,6 +1,6 @@
 # Hi Everyone! 👋
 
-My name is Michael Martinez and I'm a third-year student at the University of Michigan pursuing a degree in Computer Science 🎓. I am currently living in Ann Arbor, Michigan 🏠, but I am from the New York City Metropolitan Area 🏙.
+My name is Michael Martinez and I'm a fourth-year student at the University of Michigan pursuing a degree in Economics 🎓. I am from the New York City Metropolitan Area 🏙.
 
 ## Programming and Technical Knowledge
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=007ACC)
