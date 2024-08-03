@@ -1,6 +1,6 @@
 # Hi Everyone! 👋
 
-My name is Michael Martinez and I am a senior at the University of Michigan pursuing a degree in Economics 🎓. I am from the New York City Metropolitan Area 🏙. Feel free to connect with me through LinkedIn or email me at micsmar@umich.edu.
+My name is Michael Martinez and I am a University of Michigan graduate with a bachelor of science degree in Economics 🎓. I am from the New York City Metropolitan Area 🏙. Feel free to connect with me through LinkedIn or email me at micsmar@umich.edu.
 
 ## Programming and Technical Knowledge
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=007ACC)
