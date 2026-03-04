@@ -3,7 +3,7 @@
 My name is Michael Martinez and I am a University of Michigan graduate with a bachelor of science degree in Economics 🎓. I am passionate about technology 🧑‍💻, always looking to create and learn new things. I am from the New York City Metropolitan Area 🏙. Feel free to connect with me through LinkedIn or email me at micsmar@umich.edu.
 
 ## Programming and Technical Knowledge
-[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![python](https://img.shields.io/badge/Python-3.13-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=007ACC)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=007ACC)
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
