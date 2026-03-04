@@ -12,13 +12,3 @@ My name is Michael Martinez and I am a University of Michigan graduate with a ba
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=007ACC)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=007ACC)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=007ACC)
-
-## GitHub Stats
-
-<a href="https://github.com/micsmar/micsmar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=micsmar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Michael's GitHub Stats"
-</a>
-
-<a href="https://github.com/micsmar/micsmar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micsmar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
